@@ -5,7 +5,7 @@ Phishing websites are websites created to be very similar to the genuine website
 
 The basic idea of creating a phishing detector is to train a model to identify a special set of characteristics of websites by the URL of that particular site.
 
-<a href="https://colab.research.google.com/github/roshsoftco/phishing-website-detector/blob/1.1/model.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/roshsoftco/phishing-website-detector/blob/1.2/model.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Dataset
 
